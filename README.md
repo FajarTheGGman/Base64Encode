@@ -10,3 +10,7 @@
 3.cd Base64Encode
 4.go run base64.go
 </pre>
+
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
